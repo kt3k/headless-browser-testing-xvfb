@@ -1,6 +1,6 @@
-This is a Japanese translation of [Headless Browser Testing With Xvfb](http://tobyho.com/2015/01/09/headless-browser-testing-xvfb/) by [Toby Ho](http://tobyho.com/).
+> This is a Japanese translation of [Headless Browser Testing With Xvfb](http://tobyho.com/2015/01/09/headless-browser-testing-xvfb/) by [Toby Ho](http://tobyho.com/).
 
-[Toby Ho](http://tobyho.com/) は JavaScript のテストフレームワーク [testem](https://github.com/testem/testem) の作者。Google が開発する [Karma](https://github.com/karma-runner/karma) フレームワークと並んで、実ブラウザ上でテストケースを走らせられるツールとして人気があります。
+> [Toby Ho](http://tobyho.com/) は JavaScript のテストフレームワーク [testem](https://github.com/testem/testem) の作者。Google が開発する [Karma](https://github.com/karma-runner/karma) フレームワークと並んで、実ブラウザ上でテストケースを走らせられるツールとして人気があります。
 
 # Xvfb を利用したヘッドレスブラウザテスト
 
